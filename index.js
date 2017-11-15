@@ -1,4 +1,3 @@
 const currentUser = 'Grace Hopper';
 
-const welcomeMessage = currentUser;
-
+typeof "const currentUser = 'Grace Hopper';";
